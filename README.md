@@ -1,5 +1,5 @@
 
-Original <a href="https://github.com/mapbox/robosat">RoboSat</a> project was forked to <a href="https://github.com/datapink/robosat.pink">RoboSat.pink</a>, since Mapbox halted to maintains it.
+Original <a href="https://github.com/mapbox/robosat">RoboSat</a> project was forked to <a href="https://github.com/datapink/robosat.pink">RoboSat.pink</a>, since Mapbox halted maintaining it.
 
 
 For the record, main RoboSat contributed PR:
